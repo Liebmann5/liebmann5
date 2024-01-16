@@ -1,7 +1,7 @@
 ### Hi there 👋
 You might be wondering how you ended up here? 
 
-Some fun things GitHub auto provided for me making me this README(yell this word)
+Some fun things GitHub auto provided making me this README(yell this word)
 - 🔭 I’m currently working on many many prestigous and scientific and noble things that will change the world but shant bore you with all of my highly respected achievements.
 - 🌱 I’m currently learning how to write with both hands at the same time; maximizing efficiency.
 - 👯 I’m looking to collaborate on nothing. I'm like Rudolph but with no red-nose.  
