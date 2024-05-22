@@ -1,15 +1,13 @@
 ### Hi there 👋
 You might be wondering how you ended up here? 
 
-Some fun things GitHub auto provided making me this README(yell this word)
-- 🔭 I’m currently working on many many prestigous and scientific and noble things that will change the world but shant bore you with all of my highly respected achievements.
+Some fun things about the man behind the van:
+- 🔭 I’m currently working on creating an insect to hunt mosquitos.
 - 🌱 I’m currently learning how to write with both hands at the same time; maximizing efficiency.
-- 👯 I’m looking to collaborate on nothing. I'm like Rudolph but with no red-nose.  
-- 🤔 I’m looking for help with Super Hydrogen Colliders.
 - 💬 Ask me about my very advanced knowdledge of Super Hydrogen Colliders.
-- 📫 How to reach me: Get in contact with Mr. Anderson... he will ensure we communicate via mouths.
-- 😄 Todays Task: Research particle neurons related to atmospheric anomalies. Very very busy. 
-- ⚡ Fun fact: Just found out people stop then go then park and then go again at Drive-Thrus. I always thought it was just a fun narrow challenge-like road to drive on.
+- 📫 How to reach me: Get in contact with Ralph and he will ensure you meet Mr. Anderson who will then introduce you to the Oracle.
+- ⚡ Fun fact: Peter Parker taught me how to climb walls and shoot webs but unfortunately thought it would be funny if I did so from my armpits. Now, whenever I
+   swing around town every web shoot looks like I strike a pose.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Liebmann5?theme=dark&font=Gothic%20A1&ext=heatmap)
 <!--
