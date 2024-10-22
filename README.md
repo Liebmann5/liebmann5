@@ -1,13 +1,12 @@
 ### Hi there 👋
 You might be wondering how you ended up here? 
 
-Some fun things about the man behind the van:
-- 🔭 I’m currently working on creating an insect to hunt mosquitos.
-- 🌱 I’m currently learning how to write with both hands at the same time; maximizing efficiency.
+Some fun things about the man inside the van:
+- 🔭 I’m currently working construction because having a BS in Applied Math and then spending 4+ years teaching youyself Software Engingeering by reading 18 textbooks is not good enough to work anywhere outside of construction.
+- 🌱 I’m currently researching the phenomenom of "professional experience" and the bizarre minds using the term.
 - 💬 Ask me about my very advanced knowdledge of Super Hydrogen Colliders.
-- 📫 How to reach me: Get in contact with Ralph and he will ensure you meet Mr. Anderson who will then introduce you to the Oracle.
-- ⚡ Fun fact: Peter Parker taught me how to climb walls and shoot webs but unfortunately thought it would be funny if I did so from my armpits. Now, whenever I
-   swing around town every web shoot looks like I strike a pose.
+- 📫 How to reach me: Liebmann.nicholas1@gmail.com or Liebmann5 literally everywhere.
+- ⚡ Fun fact: Tony Hawk has skated right past me.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Liebmann5?theme=dark&font=Gothic%20A1&ext=heatmap)
 <!--
