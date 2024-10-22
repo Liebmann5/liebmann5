@@ -2,7 +2,7 @@
 You might be wondering how you ended up here? 
 
 Some fun things about the man inside the van:
-- 🔭 I’m currently working construction because having a BS in Applied Math and then spending 4+ years teaching youyself Software Engingeering by reading 18 textbooks is not good enough to work anywhere outside of construction.
+- 🔭 I’m currently working construction because having a BS in Applied Math and then spending 4+ years teaching yourself Software Engingeering by reading 18 textbooks & coding projects is not good enough to work anywhere outside of construction.
 - 🌱 I’m currently researching the phenomenom of "professional experience" and the bizarre minds using the term.
 - 💬 Ask me about my very advanced knowdledge of Super Hydrogen Colliders.
 - 📫 How to reach me: Liebmann.nicholas1@gmail.com or Liebmann5 literally everywhere.
